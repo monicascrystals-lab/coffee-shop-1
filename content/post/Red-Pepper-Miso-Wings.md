@@ -1,7 +1,7 @@
 ---
 title: "Red Pepper Miso Wings"
 date: 2018-12-26T12:28:47+06:00
-image: images/blog/blog-img-1.jpg
+image: images/blog/blog-img-4.jpg
 description: "this is meta description"
 type: "post"
 ---
