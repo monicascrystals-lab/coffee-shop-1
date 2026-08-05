@@ -430,6 +430,20 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   margin-right: auto;
 }
 
+#blog .post-img {
+  width: 50%;
+  height: 190px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+#blog .post-img img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  display: block;
+}
+
 /*--
     price Start
 --*/
