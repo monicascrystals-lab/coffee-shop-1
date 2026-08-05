@@ -40,25 +40,25 @@ pricing:
   description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
   subtitle : "FEATURED ON THE WEEK"
   pricing_item:
-  - title: "Pancakes n' Such Titas"
+  - title: "Red espresso & apple crush"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 125.00"
+    price : "$ 00.00"
 
-  - title: "Caesar Salad"
+  - title: "the MEGA breakfast"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 100.00"
+    price : "$ 00.00"
 
-  - title: "Steak with a Garlic and Parsley Risotto"
+  - title: "Salmon and avo on Sourdough"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 20.00"
+    price : "$ 00.00"
 
-  - title: "Meat of Skewers"
+  - title: "Light Bagel"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 45.00"
+    price : "$ 00.00"
 
-  - title: "Pancakes n' Such"
+  - title: "Baked yogurt & homemade berry compote"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 25.00"
+    price : "$ 00.00"
 
 ################### Subscription ################
 subscription:

@@ -1,8 +1,8 @@
 ---
-title: "Red Pepper Miso Wings"
+title: "Smoked Salmon Bagel"
 date: 2018-12-26T12:28:47+06:00
 image: images/blog/blog-img-4.jpg
-description: "this is meta description"
+description: "Smoked Salmon Bagel"
 type: "post"
 ---
 
