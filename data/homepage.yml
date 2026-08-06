@@ -22,8 +22,8 @@ gallery:
 about:
   enable : true
   image : "images/cooker-img.png"
-  title : "Featured Your <span> Restaurant’s</span> Website Has To Look Good"
-  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
+  title : "Come unwind. Get <span> Unbound <span>"
+  description : " From rich coffee to homemade goods and generously filled bagels, Unbound brings comfort to every visit."
   
 ################# Blog ######################
 blog:
@@ -36,29 +36,29 @@ blog:
 ################# food Menu ################
 pricing:
   enable : true
-  title : "Our Easy <span>PRICE</span>"
-  description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+  title : "Customer <span>favorites</span>"
+  description: "These are just some of our most popular items. We have a wide variety of food and drinks to choose from, so come in and find your new favorite!"
   subtitle : "FEATURED ON THE WEEK"
   pricing_item:
   - title: "Red espresso & apple crush"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 00.00"
+    price : "R 00.00"
 
   - title: "the MEGA breakfast"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 00.00"
+    price : "R 00.00"
 
   - title: "Salmon and avo on Sourdough"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 00.00"
+    price : "R 00.00"
 
   - title: "Light Bagel"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 00.00"
+    price : "R 00.00"
 
   - title: "Baked yogurt & homemade berry compote"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 00.00"
+    price : "R 00.00"
 
 ################### Subscription ################
 subscription:
@@ -74,6 +74,6 @@ subscription:
 ################ Contact #######################
 contact:
   enable : true
-  title: "Let's <span> Contact Us </span>"
+  title: "<span> Contact Us </span>"
   subtitle: "SIGN UP FOR EMAIL ALERTS"
   form_action : "#" #contact form works with formspree.io
