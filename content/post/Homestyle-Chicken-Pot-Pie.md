@@ -6,4 +6,4 @@ description: "Mega Breakfast"
 type: "post"
 ---
 
-We use free range eggs served with our freshly baked homemade sourdough bread, bacon, cheese grillers, avocado with homemade tomato chutney + butter.
+Our Salmon bowl has a wide variety of healthy goods.

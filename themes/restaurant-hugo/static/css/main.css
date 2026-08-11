@@ -959,3 +959,23 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   display: block;
   margin: 0 auto;
 }
+
+#hero-area {
+  position: relative;
+}
+
+.hero-business-hours {
+  max-width: 500px;
+  margin: 30px auto;
+  background: rgba(31, 16, 1, 0.842);
+  color: #3b1c06;
+  padding: 20px 24px;
+  border-radius: 12px;
+  line-height: 1.7;
+  text-align: center;
+}
+
+.hero-business-hours h4 {
+  margin-bottom: 10px;
+  color: #fff;
+}
